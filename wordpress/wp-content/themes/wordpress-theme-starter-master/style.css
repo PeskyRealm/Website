@@ -3,8 +3,8 @@
  * ---
  * Main `sass` file. Import here `sass` files
  */
-@import url("https://fonts.googleapis.com/css?family=Noto+Sans&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Noto+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Neucha&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Neucha&display=swap");
 * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -113,7 +113,7 @@ html {
  * ---
  */
 body {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Neucha", cursive;
   background-color: #2C2C2C;
 }
 
