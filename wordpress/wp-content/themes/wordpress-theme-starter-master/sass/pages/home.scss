@@ -168,6 +168,7 @@
    .carousel {
     position: relative;
     margin: 0;
+    padding: 0;
     width: 100%;
     height: 36rem;
     background-color: black;
@@ -185,11 +186,6 @@
       margin: 15px;       
       border-radius: 50%;  
       border: none; 
-    }
-    .carousel-indicators img {
-      position: absolute;
-      width: 100%;
-      top: 0;
     }
     .carousel-item {
       height: 100%;
@@ -256,6 +252,7 @@
    .carousel {
     position: relative;
     margin: 0;
+    padding: 0;
     width: 100%;
     height: 50rem;
     background-color: black;

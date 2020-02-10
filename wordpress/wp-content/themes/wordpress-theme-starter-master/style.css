@@ -52,6 +52,33 @@ html {
  * partials/header
  * ---
  */
+.navbar {
+  justify-content: left;
+  margin-bottom: 0;
+  border: none;
+}
+
+.navbar-default {
+  background-color: black;
+  border-color: #2c2c2c;
+}
+
+.navbar-toggle {
+  float: left;
+  border: none;
+}
+
+.navbar-brand {
+  margin: 0;
+  font-size: 3.5rem;
+  font-weight: 600;
+}
+
+.nav > li > a {
+  color: #036353;
+  font-size: 1.6rem;
+}
+
 /**
  * partials/footer
  * ---
@@ -230,6 +257,7 @@ body {
   .carousel {
     position: relative;
     margin: 0;
+    padding: 0;
     width: 100%;
     height: 36rem;
     background-color: black;
@@ -248,11 +276,6 @@ body {
     margin: 15px;
     border-radius: 50%;
     border: none;
-  }
-  .carousel .carousel-indicators img {
-    position: absolute;
-    width: 100%;
-    top: 0;
   }
   .carousel .carousel-item {
     height: 100%;
@@ -320,6 +343,7 @@ body {
   .carousel {
     position: relative;
     margin: 0;
+    padding: 0;
     width: 100%;
     height: 50rem;
     background-color: black;

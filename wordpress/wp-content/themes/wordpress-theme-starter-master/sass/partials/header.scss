@@ -6,5 +6,32 @@
 
 // Header container
 
+// Nav bar
 
+.navbar {
+    justify-content: left;
+    margin-bottom: 0;
+    border: none;
+}
+
+.navbar-default {
+    background-color: black;
+    border-color: #2c2c2c;
+}
+
+.navbar-toggle {
+    float: left;
+    border: none;
+}
+
+.navbar-brand {
+    margin: 0;
+    font-size: 3.5rem;
+    font-weight: 600;
+}
+
+.nav>li>a {
+    color: rgb(3, 99, 83);
+    font-size: 1.6rem;
+}
 
