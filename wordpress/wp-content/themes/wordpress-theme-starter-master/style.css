@@ -3,7 +3,7 @@
  * ---
  * Main `sass` file. Import here `sass` files
  */
-@import url("https://fonts.googleapis.com/css?family=Neucha&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Caesar+Dressing&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Neucha&display=swap");
 * {
   -webkit-font-smoothing: antialiased;
@@ -71,7 +71,7 @@ html {
 .navbar-brand {
   margin: 0;
   font-size: 3.5rem;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .nav > li > a {
@@ -140,7 +140,7 @@ html {
  * ---
  */
 body {
-  font-family: "Neucha", cursive;
+  font-family: "Caesar Dressing", cursive;
   background-color: #2C2C2C;
 }
 
