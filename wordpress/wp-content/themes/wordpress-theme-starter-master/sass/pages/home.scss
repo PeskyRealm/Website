@@ -74,7 +74,7 @@
  }
 
  
- @media only screen and (max-width: 600px) {
+ @media only screen and (max-width: 576px) {
    .container-fluid {
      display: flex;
      height: 20rem;
@@ -163,7 +163,7 @@
     } 
   }
  }
- @media only screen and (min-width: 600px) {
+ @media only screen and (min-width: 576px) {
    .container-fluid {
      display: flex;
      height: 50rem;
@@ -176,7 +176,7 @@
     margin: 0;
     padding: 0;
     width: 100%;
-    height: 36rem;
+    height: 37rem;
     background-color: black;
     max-width: 100vw;
     .carousel-indicators {
@@ -247,7 +247,7 @@
     } 
   }
  }
- @media only screen and (min-width: 992px) {
+ @media only screen and (min-width: 768px) {
    .container-fluid {
      display: flex;
      height: 65rem;
@@ -260,7 +260,7 @@
     margin: 0;
     padding: 0;
     width: 100%;
-    height: 50rem;
+    height: 51rem;
     background-color: black;
     max-width: 100vw;
     .carousel-indicators {
